@@ -3,6 +3,7 @@ This is a simple JavaScript Calculator that performs basic operations such as ad
 
 ![image](https://user-images.githubusercontent.com/85846340/225085536-ae012b2e-ea92-4877-8a2c-f9b6e51afa4e.png)
 
+### Try the app here : [click](https://javascript-calculator-srishti.netlify.app/)
 
 ## How to run the code?
 * Download the zip folder
